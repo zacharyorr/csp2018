@@ -1,0 +1,39 @@
+Throwaway Code
+
+Video
+
+        <div class="video-container">
+          <h1><center>Home</center></h1>
+            <video autoplay loop muted>
+                <source src="videos/videos.mp4" type="video/mp4" height="100%" width="100%">
+            </video>
+        </div>
+        
+        
+        
+Old About Me
+<!doctype html>
+	<html lang="en">
+	  <head>
+	    <meta charset="utf-8">
+	    <title>About Me</title>
+	  </head>
+	  <body>
+    <a href="index.html">Home</a>
+    <html>
+<body background="images/background.png">
+</body>
+</html>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="About_me.html">About Me</a>
+    <h1></h1>
+    <img src="images/About Me.jpg" height="250">
+    <br>
+    <p> Well hello there, I like you. This is just a placeholder right now I don't now what I'm doing but yea.</p>  
+    <audio controls>
+  <source src="music/background.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+    </a>
+	  </body>
+	</html>
